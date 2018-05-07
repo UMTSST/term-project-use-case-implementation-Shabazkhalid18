@@ -1,3 +1,0 @@
-The system shall be a standalone product that does not require any communication interfaces.
-
-For this Assignment we use file handling for communication 
